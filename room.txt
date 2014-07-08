@@ -1,0 +1,4 @@
+coolacid:~$ minimodem -r -8 -f room.wav rtty
+### CARRIER 45.45 @ 1590.0 Hz ###
+r6=CONTRA,r7=FLOWER,r8=NITRO,r9=FROGGER,hint=KONAMI
+### NOCARRIER ndata=52 confidence=0.96 throughput=43.40 (4.5% slow) ###
