@@ -56,11 +56,7 @@ def endgame():
 	print send(passcode, False)
 
 def restart():
-    formdata = { "inprompt" : "RESTART"}
-    data_encoded = urllib.urlencode(formdata)
-    response = opener.open("https://bsjtf.com/command.php", data_encoded)
-    content = response.read()
-    print content
+    print send('restart')
 
 
 start()
