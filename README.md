@@ -7,9 +7,15 @@ Puzzle 1: You might want to turn on your flashlight
 
 Puzzle 2: You needed to fuzz the keypad, it only checked the first charictors for "admin", and trimed that. Fuz with spaces
 
-Puzzle 3: Lighting the candle yielded some numbers. I just brute forced the code. See lock-bruteforce.log
+Puzzle 3: 
+- Take the matches
+- Helps to light the match before the candle
+- Light the Candle
+- Moving the carpet shows a lock, you can't pick your nose, or the lock :(
+- Lighting the candle yielded some numbers. I just brute forced the code. See lock-bruteforce.log
 
 Puzzle 4: 
+- Look at the paper!
 - Call the phone number
 - Decode modem sounds using minimodem
 -- I had a problem here with the version of minimodem - needed 0.8.1
